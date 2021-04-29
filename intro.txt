@@ -9,13 +9,13 @@ I'm a frontend Web developer, an adequate android developer, and familiar with b
 <p>
 Currently, I'm fascinated by, work on and, research blockchain. Penchant for Kotlin and its features. I also built a few Websites for hackathons and internships. Done an internship on application development in android using java.</p>
 <p> 
-I seldom write articles, you can find my writings on <a href="https://draft.blogger.com/blog/posts/4407202558995969132">Blogger</a> and <a href="https://twitter.com/PalliLakshman">Twitter</a>.</p>
+I seldom write articles, you can find my writings on <a href="https://draft.blogger.com/blog/posts/4407202558995969132" target="_blank" rel="noopener noreferrer">Blogger</a> and <a href="https://twitter.com/PalliLakshman" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
 
-<p>I just started making my projects into <a href="https://github.com/LakshmanPalli">GitHub</a> and will contribute more from here.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I just started making my projects into <a href="https://github.com/LakshmanPalli" target="_blank" rel="noopener noreferrer">GitHub</a> and will contribute more from here.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 
 <p>I'm an astrofreak and love to have discussions on them in my free time. I watch anime, sci-fi movies and admire them. So if you wanna have a conversation with me, we can talk about some science-technology-astrology with a coffee in hand. I do enjoy reading comic books, memes, playing cricket, and traveling (for greeneries, natural wonders). Surfing through the breadths of the internet(archives) is a guilty pleasure, I'd say. </p>
 
-If you would like to get in touch with me, whether it be for tech support, work<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address : <a href="#">luky21433@gmail.com</a> and my LinkedIn id: <a href="https://www.linkedin.com/in/venkata-sai-lakshman-palli-21334319b/">Venkata Sai Lakshman Palli</a>.
+If you would like to get in touch with me, whether it be for tech support, work<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address : <a href="#">luky21433@gmail.com</a> and my LinkedIn id: <a href="https://www.linkedin.com/in/venkata-sai-lakshman-palli-21334319b/" target="_blank" rel="noopener noreferrer">Venkata Sai Lakshman Palli</a>.
 <p>And talking about my skills.</p>
 
 <p>Training Certifications</P>
@@ -31,7 +31,7 @@ If you would like to get in touch with me, whether it be for tech support, work<
 
 <p>Achievements</P>
 <ul>
-    <li>Created a sample website for a restaurant named<a href="https://gabhera.000webhostapp.com/"> Gabhera </a> which provides food services and a perfect place for friends to hang out. This was done as a personal project.</li>
+    <li>Created a sample website for a restaurant named<a href="https://gabhera.000webhostapp.com/" target="_blank" rel="noopener noreferrer"> Gabhera </a> which provides food services and a perfect place for friends to hang out. This was done as a personal project.</li>
     <li>Attended Azure International conference 2020 by Microsoft community.</li>
     <li>Got selected and participated in the Summer Cricket Coaching Camp held by District Cricket Association.</li>
     <li>I taught myself how to juggle and developed as a good learner.</li>
