@@ -4,23 +4,25 @@
 $</span> cat MyProfile.txt<br/><br/>
 Hi, this is Venkata Sai Lakshman Palli. Pretty long right!, can go with Lakshman.
 
-<p>Computer Science student at SCSVMV University(deemed) also known as Kanchi Univ, pursuing my Bachelors Engineering pre-final year and 2022 batch graduation batch.
-I'm a frontend Web developer, an adequate android developer, and familiar with basic GCP.</p>
+<p>Graduate student pursuing a Masters in Data Science at New Jersey Institute of Technology.
+</p>
 <p>
-Currently, I'm fascinated by, work on and, research blockchain. Penchant for Kotlin and its features. I also built a few Websites for hackathons and internships. Done an internship on application development in android using java.</p>
+Have one year of full-time experience working in a fintech company called <a href="https://adenza.com/" target="_blank"> Adenza </a> as a software developer and also worked as an intern for six months where I built my knowledge of the concepts of Regulatory Reports and Capital Markets.
+• My internship experience at GlobalShala has provided me the data analyst skills.</p>
 <p> 
+
 I seldom write articles, you can find my writings on <a href="https://draft.blogger.com/blog/posts/4407202558995969132" target="_blank" rel="noopener noreferrer">Blogger</a> and <a href="https://twitter.com/PalliLakshman" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
 
-<p>I just started making my projects into <a href="https://github.com/LakshmanPalli" target="_blank" rel="noopener noreferrer">GitHub</a> and will contribute more from here.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>Been active on GitHub during 2021-22, with some projects <a href="https://github.com/LakshmanPalli" target="_blank" rel="noopener noreferrer">GitHub</a> and will contribute more from here.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 
-<p>I'm an astrofreak and love to have discussions on them in my free time. I watch anime, sci-fi movies and admire them. So if you wanna have a conversation with me, we can talk about some science-technology-astrology with a coffee in hand. I do enjoy reading comic books, memes, playing cricket, and traveling (for greeneries, natural wonders). Surfing through the breadths of the internet(archives) is a guilty pleasure, I'd say. </p>
+<p>I'm an astrofreak and love to have discussions on them in my free time. I watch anime, and sci-fi movies and admire them. So if you wanna have a conversation with me, we can talk about some science-technology-astrology with a coffee in hand. I do enjoy reading comic books, and memes, playing cricket, and traveling (for greeneries, and natural wonders). Surfing through the breadths of the internet(archives) is a guilty pleasure, I'd say. </p>
 
 If you would like to get in touch with me, whether it be for tech support, work<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address : <a href="#">luky21433@gmail.com</a> and my LinkedIn id: <a href="https://www.linkedin.com/in/venkata-sai-lakshman-palli-21334319b/" target="_blank" rel="noopener noreferrer">Venkata Sai Lakshman Palli</a>.
 <p>And talking about my skills.</p>
 
 <p>Training Certifications</P>
 <ul>
-    <li>Kotlin Essential Training - LinkedIn</li>
+    <li>Java 8 SE - Oracle</li>
     <li>Java for Android - Coursera</li>
     <li>Agile Software Development - Coursera</li>
     <li>Web Development Masterclass  - Udemy</li>
@@ -37,10 +39,10 @@ If you would like to get in touch with me, whether it be for tech support, work<
     <li>I taught myself how to juggle and developed as a good learner.</li>
     <li>I’ve had articles published and given talks in orientation programs.</li>
     <li>I play badminton and am now very good at it.</li>
-    <li>I've attended the concert of my favorite and India's best musician A.R Rehman. </li>
+    <li> I attended the concert of my favorite and India's best musician A.R Rehman. </li>
     </ul>
 
-<p>"As humans, many of us, explore, learn and raise our standards in whatever field we are interested in and excel. Yes, even I believe that I belong to that norm and flowing with ease of learning and doing the things." </p>
+<p>"As humans, many of us, explore, learn and raise our standards in whatever field we are interested in and excel. Yes, even I believe that I belong to that norm and flow with the ease of learning and doing things." </p>
 
 <p>I'd be happy to hear from you. Happy living and Spread kind.</p>
 
